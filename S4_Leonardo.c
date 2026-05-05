@@ -39,6 +39,7 @@ int main() {
         printf("3. Ver precio total y promedio\n");
         printf("4. Ver producto mas caro y mas barato\n");
         printf("5. Cambiar de sucursal\n");
+        printf("6. Ver total de unidades vendidas\n");
         printf("0. Salir\n");
         printf("Elija una opcion: ");
         scanf("%d", &menu_opc);
